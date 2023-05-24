@@ -4,10 +4,10 @@ const elts = {
 };
 
 const texts = [
+   
     "HAPPY",
     "BIRTHDAY",
-    "LECHU",
-    "by Midhun"
+    "LECHU"
 ];
 
 const morphTime = 1;
