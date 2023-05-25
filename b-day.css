@@ -1,0 +1,14 @@
+
+
+body{
+    background-image: url(https://www.pngmart.com/files/8/Diwali-Firecracker-PNG-Image-Free-Download.png);
+}
+
+
+
+img{
+    mix-blend-mode: multiply;
+    margin-top: 200px;
+    margin-left: 400px;
+    height: 300px;
+   }
