@@ -7,7 +7,7 @@ const texts = [
    
     "HAPPY",
     "BIRTHDAY",
-    "LECHU","",""
+    "LECHU",""
 ];
 
 const morphTime = 1;
